@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon --exec ts-node src/index.ts",
-    "build": "tsc && node src/index.js"
+    "build": "tsc"
   },
   "author": "HawaiiDev",
   "license": "ISC",
